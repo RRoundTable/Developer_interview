@@ -14,5 +14,5 @@
 
 
 ### reference 
-- [남세동 대표님]()
-- [변성윤 님]()
+- [남세동 대표님](https://www.facebook.com/dgtgrade/posts/1630652416993618?__tn__=KH-R)
+- [변성윤 님](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)
