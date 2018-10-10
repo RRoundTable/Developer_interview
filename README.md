@@ -20,7 +20,7 @@
 
      f) [압축이란 것은 어떻게 하는 것일까? 손실 압축과 비손실 압축의 차이는 무엇일까?](https://github.com/RRoundTable/Developer_interview/blob/master/1-f.md)
 
-     g) 피보나치 수의 함수 f(n)을 작성하는 여러가지 방법에 대해서 떠오르는대로 모두 얘기해 보라.
+     g) [피보나치 수의 함수 f(n)을 작성하는 여러가지 방법에 대해서 떠오르는대로 모두 얘기해 보라.](https://github.com/RRoundTable/Developer_interview/blob/master/1-g.md)
 
      h) 데이터베이스에서 인덱스와 관련하여서 생각나는 기술적인 내용들에 대해서 모두 얘기해 보라.
 
