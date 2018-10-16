@@ -37,7 +37,7 @@
 
 1년 이하 정도 딥러닝을 열심히 해 본 개발자들이 일정 수준 이상으로 잘 대답할 것으로 기대하는 질문들이다.
 
-1. 요즘 Sigmoid 보다 ReLU를 많이 쓰는데 그 이유는?
+1. [요즘 Sigmoid 보다 ReLU를 많이 쓰는데 그 이유는?](https://github.com/RRoundTable/Developer_interview/blob/master/2-1.md)
 
 - Non-Linearity라는 말의 의미와 그 필요성은?
 - ReLU로 어떻게 곡선 함수를 근사하나?
