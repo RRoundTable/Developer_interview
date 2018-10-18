@@ -44,7 +44,7 @@
 - ReLU의 문제점은?
 - Bias는 왜 있는걸까?
 
-2. Gradient Descent에 대해서 쉽게 설명한다면?
+2. [Gradient Descent에 대해서 쉽게 설명한다면?](https://github.com/RRoundTable/Developer_interview/blob/master/2-2.md)
 
 - 왜 꼭 Gradient를 써야 할까?
 - 그 그래프에서 가로축과 세로축 각각은 무엇인가?
