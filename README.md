@@ -58,7 +58,7 @@
 - GD가 Local Minima 문제를 피하는 방법은?
 - 찾은 해가 Global Minimum인지 아닌지 알 수 있는 방법은?
 
-4. CNN에 대해서 아는대로 얘기하라
+4. [CNN에 대해서 아는대로 얘기하라](https://github.com/RRoundTable/Developer_interview/blob/master/2-4.md)
 
 - CNN이 MLP보다 좋은 이유는?
 - 어떤 CNN의 파라메터 개수를 계산해 본다면?
