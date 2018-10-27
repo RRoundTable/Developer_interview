@@ -66,7 +66,7 @@
 - 풀링시에 만약 Max를 사용한다면 그 이유는?
 - 시퀀스 데이터에 CNN을 적용하는 것이 가능할까?
 
-5. Word2Vec의 원리는?
+5. [Word2Vec의 원리는?](https://github.com/RRoundTable/Developer_interview/blob/master/2-5.md)
 
 - 그 그림에서 왼쪽 파라메터들을 임베딩으로 쓰는 이유는?
 - 그 그림에서 오른쪽 파라메터들의 의미는 무엇일까?
