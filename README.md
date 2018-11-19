@@ -73,7 +73,7 @@
 - 남자와 여자가 가까울까? 남자와 자동차가 가까울까?
 - 번역을 Unsupervised로 할 수 있을까?
 
-6. Auto Encoder에 대해서 아는대로 얘기하라
+6. [Auto Encoder에 대해서 아는대로 얘기하라](https://github.com/RRoundTable/Developer_interview/blob/master/2-6.md)
 
 - MNIST AE를 TF나 Keras등으로 만든다면 몇줄일까?
 - MNIST에 대해서 임베딩 차원을 1로 해도 학습이 될까?
